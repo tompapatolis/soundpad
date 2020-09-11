@@ -14,3 +14,5 @@ SoundPAD is portable. No installation needed.
 * Make sure you have .NET Framework 4.7 or higher installed
 * Copy the executable in a folder (Create C:\Program Files\SoundPAD)
 * Run and enjoy!
+
+(If you get a browser warning about the .exe file just select "keep" from the menu)
