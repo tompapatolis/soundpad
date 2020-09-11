@@ -1,0 +1,41 @@
+﻿<Application x:Class="Application"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:SoundPAD_Pro"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+       
+            <Style TargetType="Button">
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" Background="{TemplateBinding Background}"
+                                BorderThickness="2" BorderBrush="#FF368BFC" CornerRadius="1" Padding="5">
+                            <ContentPresenter HorizontalAlignment="Right" VerticalAlignment="Bottom" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="Button.IsPressed" Value="True">
+                                <Setter TargetName="border" Property="BorderBrush" Value="Transparent" />
+                                <Setter Property="Foreground" Value="#FF368BFC"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF141617"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Setter Property="Margin" Value="3"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="VerticalContentAlignment" Value="Bottom"/>
+            <Setter Property="Foreground" Value="#FFE2E6E9"/>
+            <Setter Property="Background" Value="#FF282C2F"/>
+
+        </Style>
+
+    </Application.Resources>
+
+
+</Application>

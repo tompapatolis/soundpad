@@ -1,0 +1,44 @@
+E:\visual_studio\SoundPAD Pro\bin\Debug\SoundPAD Pro.exe.config
+E:\visual_studio\SoundPAD Pro\bin\Debug\SoundPAD Pro.exe
+E:\visual_studio\SoundPAD Pro\bin\Debug\SoundPAD Pro.pdb
+E:\visual_studio\SoundPAD Pro\bin\Debug\SoundPAD Pro.xml
+E:\visual_studio\SoundPAD Pro\obj\Debug\MainWindow.g.vb
+E:\visual_studio\SoundPAD Pro\obj\Debug\Application.g.vb
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro_MarkupCompile.cache
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro_MarkupCompile.lref
+E:\visual_studio\SoundPAD Pro\obj\Debug\MainWindow.baml
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.g.resources
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD_Pro.Resources.resources
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.vbproj.GenerateResource.cache
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.vbproj.CoreCompileInputs.cache
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.exe
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.xml
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.pdb
+E:\visual_studio\SoundPAD Pro\obj\Debug\Application.baml
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.vbprojAssemblyReference.cache
+E:\visual_studio\SoundPAD Pro\bin\Debug\SoundPAD Pro.exe.manifest
+E:\visual_studio\SoundPAD Pro\bin\Debug\SoundPAD Pro.application
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.exe.manifest
+E:\visual_studio\SoundPAD Pro\obj\Debug\SoundPAD Pro.application
+E:\visual_studio\SoundPAD\bin\Debug\SoundPAD Pro.exe.config
+E:\visual_studio\SoundPAD\bin\Debug\SoundPAD Pro.exe.manifest
+E:\visual_studio\SoundPAD\bin\Debug\SoundPAD Pro.application
+E:\visual_studio\SoundPAD\bin\Debug\SoundPAD Pro.exe
+E:\visual_studio\SoundPAD\bin\Debug\SoundPAD Pro.pdb
+E:\visual_studio\SoundPAD\bin\Debug\SoundPAD Pro.xml
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.vbprojAssemblyReference.cache
+E:\visual_studio\SoundPAD\obj\Debug\MainWindow.g.vb
+E:\visual_studio\SoundPAD\obj\Debug\Application.g.vb
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro_MarkupCompile.cache
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro_MarkupCompile.lref
+E:\visual_studio\SoundPAD\obj\Debug\Application.baml
+E:\visual_studio\SoundPAD\obj\Debug\MainWindow.baml
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.g.resources
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD_Pro.Resources.resources
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.vbproj.GenerateResource.cache
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.vbproj.CoreCompileInputs.cache
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.exe.manifest
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.application
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.exe
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.xml
+E:\visual_studio\SoundPAD\obj\Debug\SoundPAD Pro.pdb
